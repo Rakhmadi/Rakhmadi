@@ -2,4 +2,4 @@
 
 [![MYPortofolio](https://1.bp.blogspot.com/-cTWtRxIdVT4/XyYLjDL5wrI/AAAAAAAAAyI/YtwYxvsk7-EgqyCT5XZk0UfM1YfXyVF5gCLcBGAsYHQ/s0/ck.png)](https://rakhmadi.github.io/)
 
-![Wellcome](https://1.bp.blogspot.com/-zpmGXxLpmlU/XyYpNGkRMfI/AAAAAAAAAys/mZajkuRKE1IHeX6oBYaAngdUmOD2LScXwCLcBGAsYHQ/s640/sd.png)
+![Wellcome](https://1.bp.blogspot.com/-oVEZcUbkjC4/XyY4bPojgnI/AAAAAAAAAzo/qpijwE-QQKoDqmwYtyWXYpLw0vj3peKAgCLcBGAsYHQ/s640/dddv.png)
