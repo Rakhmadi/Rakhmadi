@@ -2,4 +2,6 @@
 
 ![Wellcome](https://1.bp.blogspot.com/-oVEZcUbkjC4/XyY4bPojgnI/AAAAAAAAAzo/qpijwE-QQKoDqmwYtyWXYpLw0vj3peKAgCLcBGAsYHQ/s640/dddv.png)
 
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=rakhmadi&show_icons=true"  alt="rakhamdi" /></p>
+
 
