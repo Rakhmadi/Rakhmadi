@@ -1,11 +1,8 @@
 
-<p align="center">
-  <img src="https://1.bp.blogspot.com/-oVEZcUbkjC4/XyY4bPojgnI/AAAAAAAAAzo/qpijwE-QQKoDqmwYtyWXYpLw0vj3peKAgCLcBGAsYHQ/s640/dddv.png" />
-</p>
 
 
 <div>
-    <img height="170" width="40%" align="left" alt="Rakhmadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakhmadi&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true&bg_color=383C4A&title_color=fff&text_color=fff">
+    <img  width="40%" align="left" alt="Rakhmadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakhmadi&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true&bg_color=383C4A&title_color=fff&text_color=fff">
 </div>
 
 <br>
