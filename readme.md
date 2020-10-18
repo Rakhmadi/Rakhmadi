@@ -5,8 +5,8 @@
 
 
 <div>
-    <img height="170" align="left" alt="Rakhmadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakhmadi&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakhmadi&layout=compact" />
+    <img height="170" width="40%" align="left" alt="Rakhmadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakhmadi&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true">
+    <img height="170" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakhmadi&layout=compact&theme=dark" />
 </div>
 
 
